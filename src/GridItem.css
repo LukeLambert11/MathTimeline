@@ -1,0 +1,24 @@
+.grid-item {
+    background-color: #444442; /* your desired color for the cell */
+    width: 20px; /* your desired width for the cell */
+    height: 20px; /* your desired height for the cell */
+    margin: 2px;
+    position: relative;
+}
+
+.grid-item .popup {
+    display: none;
+    position: absolute;
+    top: 0;
+    white-space: pre;
+    z-index: 10;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #dddddd;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.grid-item:hover .popup {
+    display: block;
+}

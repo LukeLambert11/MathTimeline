@@ -1,0 +1,13 @@
+.background{
+    background-color: #323431;
+    min-height: 100vh; /* Use vh (viewport height) to cover the full height of the viewport */
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+
