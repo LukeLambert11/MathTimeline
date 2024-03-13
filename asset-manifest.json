@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MathTimeline/static/css/main.0b5df08e.css",
+    "main.js": "/MathTimeline/static/js/main.536ec885.js",
+    "index.html": "/MathTimeline/index.html",
+    "main.0b5df08e.css.map": "/MathTimeline/static/css/main.0b5df08e.css.map",
+    "main.536ec885.js.map": "/MathTimeline/static/js/main.536ec885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5df08e.css",
+    "static/js/main.536ec885.js"
+  ]
+}
