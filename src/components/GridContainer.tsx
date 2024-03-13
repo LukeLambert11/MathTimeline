@@ -1,6 +1,6 @@
 import React from 'react';
 import GridItem from './GridItem';
-import './GridContainer.css'; // Make sure to create this CSS file with styles for the container
+import './styles/GridContainer.css'; // Make sure to create this CSS file with styles for the container
 
 type GridItemProps = {
     id: React.Key;

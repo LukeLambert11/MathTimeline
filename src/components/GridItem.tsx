@@ -1,5 +1,5 @@
 import React from 'react';
-import './GridItem.css'; // Make sure to create this CSS file with styles for grid item
+import './styles/GridItem.css'; // Make sure to create this CSS file with styles for grid item
 
 type GridItemProps = {
     info: string;
