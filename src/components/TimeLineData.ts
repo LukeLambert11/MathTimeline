@@ -31,10 +31,13 @@ data[-1100 + 2000].color = 'red';
 data[-490 + 2000].info += '\n **Zeno\'s Paradoxes**\n [Wikipedia](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes)'
 data[-490 + 2000].color = 'red';
 
+data[-387  + 2000].info += '\n **Platonic Academy Founded**\n [Wikipedia](https://en.wikipedia.org/wiki/Platonic_Academy)'
+data[-387 + 2000].color = 'red';
+
 data[-300 + 2000].info += '\n **Euclid Elements**\n [Wikipedia](https://en.wikipedia.org/wiki/Euclid%27s_Elements)';
 data[-300 + 2000].color = 'red';
 
-data[-280 + 2000].info += '\n **On the Sizes and Distances (Aristarchus)\n [Wikipedia](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_(Aristarchus))'
+data[-280 + 2000].info += '\n **On the Sizes and Distances (Aristarchus)**\n [Wikipedia](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances)'
 data[-280 + 2000].color = 'red';
 
 data[-202 + 2000].info += '\n **Book on Numbers and Computation**\n [Wikipedia](https://en.wikipedia.org/wiki/Book_on_Numbers_and_Computation)'
@@ -45,6 +48,28 @@ data[-150 + 2000].color = 'red';
 
 data[-40 + 2000].info += '\n **Organon Translated into Latin**\n [Wikipedia](https://en.wikipedia.org/wiki/Organon)'
 data[-40 + 2000].color = 'red';
+
+data[147 + 2000].info += '\n **Almagest**\n [Wikipedia](https://en.wikipedia.org/wiki/Almagest)'
+data[147 + 2000].color = 'red';
+
+data[284 + 2000].info += '\n **Arithmetica**\n [Wikipedia](https://en.wikipedia.org/wiki/Arithmetica)'
+data[284 + 2000].color = 'red';
+
+data[300 + 2000].info += '\n **Sunzi Suanjing\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Sunzi_Suanjing)'
+data[300 + 2000].color = 'red';
+
+data[383 + 2000].info += '\n **Bakhshali manuscript\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Bakhshali_manuscript)'
+data[383 + 2000].color = 'red';
+
+data[628 + 2000].info += '\n **Brāhmasphuṭasiddhānta\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta)'
+data[628 + 2000].color = 'red';
+
+data[750 + 2000].info += '\n **Brāhmasphuṭasiddhānta translated into Arabic **\n [Wikipedia](https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_Ibr%C4%81h%C4%ABm_al-Faz%C4%81r%C4%AB#Works)'
+data[750 + 2000].color = 'red';
+
+data[818+2000].info += '\n **House of Wisdom founded**\n [Wikipedia](https://en.wikipedia.org/wiki/House_of_Wisdom)'
+
+
 
 //things people used
 
@@ -73,6 +98,31 @@ data[-240 + 2000].info += '\n **Sieve of Eratosthenes**\n [Wikipedia](https://en
 data[-240 + 2000].color = 'blue';
 
 data[-50 + 2000].info += '\n **Indian Numerals**\n [Wikipedia](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system#Glyph_comparison)'
+data[-50 + 2000].color = 'blue';
+
+data[60 + 2000].info += '\n **Heron\'s Formula**\n [Wikipedia](https://en.wikipedia.org/wiki/Heron%27s_formula)'
+data[60 + 2000].color = 'blue';
+
+data[224 + 2000].info += '\n **Earliest use of 0 Character**\n [Wikipedia](https://en.wikipedia.org/wiki/0#India)'
+data[224 + 2000].color = 'blue';
+
+data[263 + 2000].info += '\n **Liu Hui\'s π algorithm**\n [Wikipedia](https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm)'
+data[263 + 2000].color = 'blue';
+
+data[340 + 2000].info += '\n **Pappus\'s hexagon theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Pappus%27s_hexagon_theorem)'
+data[340 + 2000].color = 'blue';
+
+data[500 + 2000].info += '\n **Pi Calculated to 6 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Zu_Chongzhi#Mathematics)'
+data[500 + 2000].color = 'blue';
+
+data[510 + 2000].info += '\n **Sine and Cosine**\n [Wikipedia](https://en.wikipedia.org/wiki/Aryabhata#Trigonometry)'
+data[510 + 2000].color = 'blue';
+
+data[680 + 2000].info += '\n **Bhāskara I\'s sine approximation formula**\n [Wikipedia](https://en.wikipedia.org/wiki/Bh%C4%81skara_I%27s_sine_approximation_formula)'
+data[680 + 2000].color = 'blue';
+
+data[650 + 2000].info += '\n **Brahmagupta\'s formula\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta%27s_formula)'
+data[650 + 2000].color = 'blue';
 
 
 
@@ -94,7 +144,7 @@ data[-465 + 2000].info += '\n **Theodorus of Cyrene is Born**\n [Wikipedia](http
 data[-465 + 2000].color = 'green';
 
 // Antiphon the Sophist
-data[-480 + 2000].info += '\n **Antiphon the Sophist is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Antiphon_(orator))';
+data[-480 + 2000].info += '\n **Antiphon the Sophist is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sophistic_works_of_Antiphon)';
 data[-480 + 2000].color = 'green';
 
 // Democritus
@@ -156,6 +206,32 @@ data[-240 + 2000].color = 'green';
 //Hipparchus
 data[-120 + 2000].info += '\n **Hipparchus is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Hipparchus)'
 data[-120 + 2000].color = 'green';
+
+data[60 + 2000].info += '\n **Nicomachus of Gerasa is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Nicomachus#Introduction_to_Arithmetic)'
+data[60 + 2000].color = 'green';
+
+data[78 + 2000].info += '\n **Zhang Heng is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Zhang_Heng#Mathematics)'
+data[78 + 2000].color = 'green';
+
+data[100 + 2000].info += '\n **Claudius Ptolemy is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Ptolemy)'
+data[100 + 2000].color = 'green';
+
+data[214 + 2000].info += '\n **Diophantus is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Diophantus)'
+data[214 + 2000].color = 'green';
+
+data[335 + 2000].info += '\n **Theon of Alexandria is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Theon_of_Alexandria)'
+data[335 + 2000].color = 'green';
+
+data[476 + 2000].info += '\n **Aryabhata is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Aryabhata)'
+data[476 + 2000].color = 'green';
+
+data[480  + 2000].info += '\n **Simplicius of Cilicia is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Simplicius_of_Cilicia)'
+data[480 + 2000].color = 'green';
+
+data[598 + 2000].info += '\n **Brahmagupta is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta)'
+data[598 + 2000].color = 'green';
+
+
 
 //Gauss
 data[1777 + 2000].info += '\n **Carl Friedrich Gauss is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)'
