@@ -76,6 +76,25 @@ data[820 + 2000].color = 'red';
 data[850 + 2000].info += '\n **Gaṇita-sāra-saṅgraha**\n [Wikipedia](https://en.wikipedia.org/wiki/Ga%E1%B9%87ita-s%C4%81ra-sa%E1%B9%85graha)'
 data[850 + 2000].color = 'red';
 
+data[1011 + 2000].info += '\n **Book of Optics**\n [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Optics)'
+data[1011 + 2000].color = 'red';
+
+data[1150 + 2000].info += '\n **Līlāvatī**\n [Wikipedia](https://en.wikipedia.org/wiki/L%C4%ABl%C4%81vat%C4%AB)'
+data[1150 + 2000].color = 'red';
+
+data[1202 + 2000].info += '\n **Liber Abaci**\n [Wikipedia](https://en.wikipedia.org/wiki/Liber_Abaci)'
+data[1202 + 2000].color = 'red';
+
+data[1247 + 2000].info += '\n **Mathematical Treatise in Nine Sections**\n [Wikipedia](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections)'
+data[1247 + 2000].color = 'red';
+
+data[1248 + 2000].info += '\n **Ceyuan haijing\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Ceyuan_haijing)'
+data[1248 + 2000].color = 'red';
+
+data[1303 + 2000].info += '\n **Ganita Kaumudi\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Ganita_Kaumudi)'
+data[1303 + 2000].color = 'red';
+
+
 
 
 
@@ -127,17 +146,47 @@ data[500 + 2000].color = 'blue';
 data[510 + 2000].info += '\n **Sine and Cosine**\n [Wikipedia](https://en.wikipedia.org/wiki/Aryabhata#Trigonometry)'
 data[510 + 2000].color = 'blue';
 
+data[628 + 2000].info += '\n **Pell\'s equation Integer Solution**\n [Wikipedia](https://en.wikipedia.org/wiki/Pell%27s_equation)'
+data[628 + 2000].color = 'blue';
+
 data[680 + 2000].info += '\n **Bhāskara I\'s sine approximation formula**\n [Wikipedia](https://en.wikipedia.org/wiki/Bh%C4%81skara_I%27s_sine_approximation_formula)'
 data[680 + 2000].color = 'blue';
 
 data[650 + 2000].info += '\n **Brahmagupta\'s formula\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta%27s_formula)'
 data[650 + 2000].color = 'blue';
 
+data[901 + 2000].info += '\n **Thabit number**\n [Wikipedia](https://en.wikipedia.org/wiki/Thabit_number)'
+data[901 + 2000].color = 'blue';
+
 data[940 + 2000].info += '\n **Trigonometric identities**\n [Wikipedia](https://en.wikipedia.org/wiki/Abu_al-Wafa%27_al-Buzjani#Mathematics)'
 data[940 + 2000].color = 'blue';
 
 data[953 + 2000].info += '\n **Formulation of the binomial theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Binomial_theorem#History)'
 data[953 + 2000].color = 'blue';
+
+data[929 + 2000].info += '\n **Spherical trigonometric functions**\n [Wikipedia](https://en.wikipedia.org/wiki/Al-Battani#Mathematics)'
+data[929 + 2000].color = 'blue';
+
+data[1000 + 2000].info += '\n **Law of Sines**\n [Wikipedia](https://en.wikipedia.org/wiki/Law_of_sines#History)'
+data[1000 + 2000].color = 'blue';
+
+data[1029 + 2000].info += '\n **Math Induction**\n [Wikipedia](https://en.wikipedia.org/wiki/Mathematical_induction#History)'
+data[1029 + 2000].color = 'blue';
+
+data[1100 + 2000].info += '\n **Modern Hindu Arabic Numerals**\n [Wikipedia](https://en.wikipedia.org/wiki/Arabic_numerals)'
+data[1100 + 2000].color = 'blue';
+
+data[1158 + 2000].info += '\n **Chakravala method**\n [Wikipedia](https://en.wikipedia.org/wiki/Chakravala_method)'
+data[1158 + 2000].color = 'blue';
+
+data[1400 + 2000].info += '\n **Madhava series**\n [Wikipedia](https://en.wikipedia.org/wiki/Madhava_series)'
+data[1400 + 2000].color = 'blue';
+
+data[1460 + 2000].info += '\n **Mean Value Theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Mean_value_theorem#History)'
+data[1460 + 2000].color = 'blue';
+
+
+
 
 
 
@@ -257,6 +306,27 @@ data[836 + 2000].color = 'green';
 
 data[850 + 2000].info += '\n **Abu Kamil is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Abu_Kamil)'
 data[850 + 2000].color = 'green';
+
+data[940 + 2000].info += '\n **Abu al-Wafa\' al-Buzjani is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Abu_al-Wafa%27_al-Buzjani)'
+data[940 + 2000].color = 'green';
+
+data[965 + 2000].info += '\n **Ibn al-Haytham is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Ibn_al-Haytham)'
+data[965 + 2000].color = 'green';
+
+data[1048 + 2000].info += '\n **Omar Khayyam is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Omar_Khayyam)'
+data[1048 + 2000].color = 'green';
+
+data[1135 + 2000].info += '\n **Sharaf al-Din al-Tusi is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi)'
+data[1135 + 2000].color = 'green';
+
+data[1170 + 2000].info += '\n **Fibonacci is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci)'
+data[1170 + 2000].color = 'green';
+
+data[1201 + 2000].info += '\n **Nasir al-Din al-Tusi is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi)'
+data[1201 + 2000].color = 'green';
+
+data[1340 + 2000].info += '\n **Madhava of Sangamagrama is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama)'
+data[1340 + 2000].color = 'green';
 
 
 
