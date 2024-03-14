@@ -70,6 +70,14 @@ data[750 + 2000].color = 'red';
 data[818+2000].info += '\n **House of Wisdom founded**\n [Wikipedia](https://en.wikipedia.org/wiki/House_of_Wisdom)'
 data[818 + 2000].color = 'red';
 
+data[820 + 2000].info += '\n **Al-Jabr**\n [Wikipedia](https://en.wikipedia.org/wiki/Al-Jabr)'
+data[820 + 2000].color = 'red';
+
+data[850 + 2000].info += '\n **Gaṇita-sāra-saṅgraha**\n [Wikipedia](https://en.wikipedia.org/wiki/Ga%E1%B9%87ita-s%C4%81ra-sa%E1%B9%85graha)'
+data[850 + 2000].color = 'red';
+
+
+
 
 
 //things people used
@@ -124,6 +132,12 @@ data[680 + 2000].color = 'blue';
 
 data[650 + 2000].info += '\n **Brahmagupta\'s formula\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta%27s_formula)'
 data[650 + 2000].color = 'blue';
+
+data[940 + 2000].info += '\n **Trigonometric identities**\n [Wikipedia](https://en.wikipedia.org/wiki/Abu_al-Wafa%27_al-Buzjani#Mathematics)'
+data[940 + 2000].color = 'blue';
+
+data[953 + 2000].info += '\n **Formulation of the binomial theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Binomial_theorem#History)'
+data[953 + 2000].color = 'blue';
 
 
 
@@ -231,6 +245,18 @@ data[480 + 2000].color = 'green';
 
 data[598 + 2000].info += '\n **Brahmagupta is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta)'
 data[598 + 2000].color = 'green';
+
+data[780 + 2000].info += '\n **Al-Khwarizmi is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Al-Khwarizmi)'
+data[780 + 2000].color = 'green';
+
+data[801 + 2000].info += '\n **Al-Kindi is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Al-Kindi)'
+data[801 + 2000].color = 'green';
+
+data[836 +2000].info += '\n **Thābit ibn Qurra is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra)'
+data[836 + 2000].color = 'green';
+
+data[850 + 2000].info += '\n **Abu Kamil is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Abu_Kamil)'
+data[850 + 2000].color = 'green';
 
 
 
