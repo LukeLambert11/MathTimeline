@@ -68,6 +68,7 @@ data[750 + 2000].info += '\n **Brāhmasphuṭasiddhānta translated into Arabic 
 data[750 + 2000].color = 'red';
 
 data[818+2000].info += '\n **House of Wisdom founded**\n [Wikipedia](https://en.wikipedia.org/wiki/House_of_Wisdom)'
+data[818 + 2000].color = 'red';
 
 
 
