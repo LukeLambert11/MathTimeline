@@ -393,7 +393,7 @@ data[1616 + 2000].info += '\n **John Wallis is Born**\n [Wikipedia](https://en.w
 data[1616 + 2000].color = 'green';
 
 
-//left off on issac newton 
+//left off on issac newton
 
 
 //Gauss

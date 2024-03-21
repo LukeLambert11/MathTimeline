@@ -13,6 +13,7 @@ const timeLine = () => {
     return (
         <div className="background">
             <h1 className="title">Mathematics Timeline</h1>
+            <h1 className="name">By Luke Lambert</h1>
             <div>
                 <GridContainer items={gridItems} />
             </div>
