@@ -94,6 +94,23 @@ data[1248 + 2000].color = 'red';
 data[1303 + 2000].info += '\n **Ganita Kaumudi\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Ganita_Kaumudi)'
 data[1303 + 2000].color = 'red';
 
+data[1494 + 2000].info += '\n **Summa de arithmetica\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Summa_de_arithmetica)'
+data[1494 + 2000].color = 'red';
+
+data[1501 + 2000].info += '\n **Tantrasamgraha**\n [Wikipedia](https://en.wikipedia.org/wiki/Tantrasamgraha)'
+data[1501 + 2000].color = 'red';
+
+data[1530 + 2000].info += '\n **Yuktibhāṣā**\n [Wikipedia](https://en.wikipedia.org/wiki/Yuktibh%C4%81%E1%B9%A3%C4%81)'
+data[1530 + 2000].color = 'red';
+
+data[1619 + 2000].info += '\n **Cartesian/Analytic geometry**\n [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes#Analytic_geometry)'
+data[1619 + 2000].color = 'red';
+
+data[1619 + 2000].info += '\n **Kepler–Poinsot polyhedron**\n [Wikipedia](https://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron#History)'
+data[1619 + 2000].color = 'red';
+
+
+
 
 
 
@@ -184,6 +201,35 @@ data[1400 + 2000].color = 'blue';
 
 data[1460 + 2000].info += '\n **Mean Value Theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Mean_value_theorem#History)'
 data[1460 + 2000].color = 'blue';
+
+data[1412 + 2000].info += '\n **Symbolic Algebra**\n [Wikipedia](https://en.wikipedia.org/wiki/History_of_mathematical_notation#Early_arithmetic_and_multiplication)'
+data[1412 + 2000].color = 'blue';
+
+data[1540 + 2000].info += '\n **Quartic equation**\n [Wikipedia](https://en.wikipedia.org/wiki/Quartic_equation)'
+data[1540 + 2000].color = 'blue';
+
+data[1572 + 2000].info += '\n **Complex Numbers**\n [Wikipedia](https://en.wikipedia.org/wiki/Rafael_Bombelli#Complex_numbers)'
+data[1572 + 2000].color = 'blue';
+
+data[1596 + 2000].info += '\n **Pi Calculated to 20 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen#Calc)'
+data[1596 + 2000].color = 'blue';
+
+data[1614 + 2000].info += '\n **Napier Logarithms**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Napier#Logarithms)'
+data[1614 + 2000].color = 'blue';
+
+data[1617 + 2000].info += '\n **Base 10 Logarithms**\n [Wikipedia](https://en.wikipedia.org/wiki/Common_logarithm)'
+data[1617 + 2000].color = 'blue';
+
+data[1618 + 2000].info += '\n **e (mathematical constant)**\n [Wikipedia](https://en.wikipedia.org/wiki/E_(mathematical_constant))'
+data[1618 + 2000].color = 'blue';
+
+data[1637 + 2000].info += '\n **Fermat\'s Last Theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)'
+data[1637 + 2000].color = 'blue';
+
+data[1643 + 2000].info += '\n **Descartes\' theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Descartes%27_theorem)'
+data[1643 + 2000].color = 'blue';
+
+
 
 
 
@@ -328,6 +374,26 @@ data[1201 + 2000].color = 'green';
 data[1340 + 2000].info += '\n **Madhava of Sangamagrama is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama)'
 data[1340 + 2000].color = 'green';
 
+data[1380 + 2000].info += '\n **Jamshid al-Kashi**\n [Wikipedia](https://en.wikipedia.org/wiki/Jamshid_al-Kashi)'
+data[1380 + 2000].color = 'green';
+
+data[1477 + 2000].info += '\n **LucaPacioli is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Luca_Pacioli)'
+data[1477 + 2000].color = 'green';
+
+data[1550 + 2000].info += '\n **John Napier is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Napier)'
+data[1550 + 2000].color = 'green';
+
+data[1596 + 2000].info += '\n **René Descartes is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)'
+data[1596 + 2000].color = 'green';
+
+data[1607 + 2000].info += '\n **Pierre de Fermat is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Pierre_de_Fermat)'
+data[1607 + 2000].color = 'green';
+
+data[1616 + 2000].info += '\n **John Wallis is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Wallis)'
+data[1616 + 2000].color = 'green';
+
+
+//left off on issac newton 
 
 
 //Gauss
