@@ -112,6 +112,15 @@ data[1619 + 2000].color = 'red';
 data[1696 + 2000].info += '\n **Analyse des Infiniment Petits pour l\'Intelligence des Lignes Courbes**\n [Wikipedia](https://en.wikipedia.org/wiki/Analyse_des_Infiniment_Petits_pour_l%27Intelligence_des_Lignes_Courbes)'
 data[1696 + 2000].color = 'red';
 
+data[1718 + 2000].info += '\n **The Doctrine of Chances**\n [Wikipedia](https://en.wikipedia.org/wiki/The_Doctrine_of_Chances)'
+data[1718 + 2000].color = 'red';
+
+data[1794 + 2000].info += '\n **Thesaurus Logarithmorum Completus (Treasury of all Logarithms)**\n [Wikipedia](https://en.wikipedia.org/wiki/Jurij_Vega#Mathematical_accomplishments)'
+data[1794 + 2000].color = 'red';
+
+data[1801 + 2000].info += '\n **Disquisitiones Arithmeticae**\n [Wikipedia](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)'
+data[1801 + 2000].color = 'red';
+
 
 
 
@@ -253,6 +262,105 @@ data[1706 + 2000].color = 'blue';
 
 data[1712 + 2000].info += '\n **Bernoulli number\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_number)'
 data[1712 + 2000].color = 'blue';
+
+data[1715 + 2000].info += '\n **Taylor\'s Series**\n [Wikipedia](https://en.wikipedia.org/wiki/Taylor_series)'
+data[1715 + 2000].color = 'blue';
+
+data[1722 + 2000].info += '\n **De Moivre\'s formula**\n [Wikipedia](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)'
+data[1722 + 2000].color = 'blue';
+
+data[1734 + 2000].info += '\n **Basel problem Solved**\n [Wikipedia](https://en.wikipedia.org/wiki/Basel_problem)'
+data[1734 + 2000].color = 'blue';
+
+data[1736 + 2000].info += '\n **Seven Bridges of Königsberg introduction to Graph Theory**\n [Wikipedia](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)'
+data[1736 + 2000].color = 'blue';
+
+data[1738 + 2000].info += '\n **Normal Distribution**\n [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution#History)'
+data[1738 + 2000].color = 'blue';
+
+data[1748 + 2000].info += '\n **Euler\'s formula**\n [Wikipedia](https://en.wikipedia.org/wiki/Euler%27s_formula)'
+data[1748 + 2000].color = 'blue';
+
+data[1742 + 2000].info += '\n **Goldbach\'s conjecture**\n [Wikipedia](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)'
+data[1742 + 2000].color = 'blue';
+
+data[1747 + 2000].info += '\n **d\'Alembert\'s formula**\n [Wikipedia](https://en.wikipedia.org/wiki/D%27Alembert%27s_formula)'
+data[1747 + 2000].color = 'blue';
+
+data[1761 + 2000].info += '\n **Pi is proved to be irrational**\n [Wikipedia](https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert#Mathematics)'
+data[1761 + 2000].color = 'blue';
+
+data[1762 + 2000].info += '\n **Divergence theorem Discovered**\n [Wikipedia](https://en.wikipedia.org/wiki/Divergence_theorem#History)'
+data[1762 + 2000].color = 'blue';
+
+data[1763 + 2000].info += '\n **Bayes\' theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Bayes%27_theorem)'
+data[1763 + 2000].color = 'blue';
+
+data[1789 + 2000].info += '\n **Pi Calculated to 126 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Jurij_Vega#Mathematical_accomplishments)'
+data[1789 + 2000].color = 'blue';
+
+data[1797 + 2000].info += '\n **Prime number theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Prime_number_theorem#History_of_the_proof_of_the_asymptotic_law_of_prime_numbers)'
+data[1797 + 2000].color = 'blue';
+
+data[1799 + 2000].info += '\n **Abel–Ruffini theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem)'
+data[1799 + 2000].color = 'blue';
+
+data[1805 + 2000].info += '\n **Method of Least squares**\n [Wikipedia](https://en.wikipedia.org/wiki/Least_squares#History)'
+data[1805 + 2000].color = 'blue';
+
+data[1806 + 2000].info += '\n **Fundamental theorem of algebra Rigorous proof**\n [Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra#History)'
+data[1806 + 2000].color = 'blue';
+
+data[1822 + 2000].info += '\n **Fourier transform**\n [Wikipedia](https://en.wikipedia.org/wiki/Fourier_transform#Background)'
+data[1822 + 2000].color = 'blue';
+
+data[1817 + 2000].info += '\n **Intermediate value theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Intermediate_value_theorem#History)'
+data[1817 + 2000].color = 'blue';
+
+data[1823 + 2000].info += '\n **Sophie Germain\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Germain%27s_theorem)'
+data[1823 + 2000].color = 'blue';
+
+data[1828 + 2000].info += '\n **Green\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Green%27s_theorem#History)'
+data[1828 + 2000].color = 'blue';
+
+data[1829 + 2000].info += '\n **Group Theory**\n [Wikipedia](https://en.wikipedia.org/wiki/History_of_group_theory)'
+data[1829 + 2000].color = 'blue';
+
+data[1837 + 2000].info += '\n **Analytic number theory**\n [Wikipedia](https://en.wikipedia.org/wiki/Analytic_number_theory#History)'
+data[1837 + 2000].color = 'blue';
+
+data[1844 + 2000].info += '\n **Linear Algebra**\n [Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra#History)'
+data[1844 + 2000].color = 'blue';
+
+data[1847 + 2000].info += '\n **Boolean Algebra**\n [Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)'
+data[1847 + 2000].color = 'blue';
+
+data[1850 + 2000].info += '\n **Stokes\' theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Stokes%27_theorem)'
+data[1850 + 2000].color = 'blue';
+
+data[1859 + 2000].info += '\n **Riemann Hypothesis**\n [Wikipedia](https://en.wikipedia.org/wiki/Riemann_hypothesis#Origin)'
+data[1859 + 2000].color = 'blue';
+
+data[1858 + 2000].info += '\n **Möbius strip**\n [Wikipedia](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)'
+data[1858 + 2000].color = 'blue';
+
+data[1872 + 2000].info += '\n **Dedekind cut**\n [Wikipedia](https://en.wikipedia.org/wiki/Dedekind_cut)'
+data[1872 + 2000].color = 'blue';
+
+data[1873 + 2000].info += '\n **e is transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#A_proof_that_e_is_transcendental)'
+data[1873 + 2000].color = 'blue';
+
+data[1891 + 2000].info += '\n **Cantor\'s diagonal argument**\n [Wikipedia](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)'
+data[1891 + 2000].color = 'blue';
+
+data[1882 + 2000].info += '\n **pi is transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#The_transcendence_of_%CF%80)'
+data[1882 + 2000].color = 'blue';
+
+
+//klien bottle
+
+
+
 
 
 
@@ -432,16 +540,56 @@ data[1655 + 2000].color = 'green';
 data[1667 + 2000].info += '\n **Johann Bernoulli is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Johann_Bernoulli)'
 data[1667 + 2000].color = 'green';
 
-// on brook taylor
+data[1667 + 2000].info += '\n **Abraham de Moivre is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Abraham_de_Moivre)'
+data[1667 + 2000].color = 'green';
 
+data[1701 + 2000].info += '\n **Thomas Bayes is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Bayes)'
+data[1701 + 2000].color = 'green';
+
+//Euler
+data[1707 + 2000].info += '\n **Leonhard Euler is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Leonhard_Euler)'
+data[1707 + 2000].color = 'green';
+
+data[1736 + 2000].info += '\n **Joseph-Louis Lagrange is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)'
+data[1736 + 2000].color = 'green';
+
+data[1752 + 2000].info += '\n **Adrien-Marie Legendre is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Adrien-Marie_Legendre)'
+data[1752 + 2000].color = 'green';
+
+data[1768 + 2000].info += '\n **Joseph Fourier is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Fourier)'
+data[1768 + 2000].color = 'green';
 
 //Gauss
 data[1777 + 2000].info += '\n **Carl Friedrich Gauss is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)'
 data[1777 + 2000].color = 'green';
 
-//Euler
-data[1707 + 2000].info += '\n **Leonhard Euler is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Leonhard_Euler)'
-data[1707 + 2000].color = 'green';
+data[1781 + 2000].info += '\n **Siméon Denis Poisson is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)'
+data[1781 + 2000].color = 'green';
+
+data[1789 + 2000].info += '\n **Augustin-Louis Cauchy is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)'
+data[1789 + 2000].color = 'green';
+
+data[1805 + 2000].info += '\n **Peter Gustav Lejeune Dirichlet is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)'
+data[1805 + 2000].color = 'green';
+
+data[1811 + 2000].info += '\n **Évariste Galois is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/%C3%89variste_Galois)'
+data[1811 + 2000].color = 'green';
+
+data[1815 + 2000].info += '\n **George Boole is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/George_Boole)'
+data[1815 + 2000].color = 'green';
+
+data[1819 + 2000].info += '\n **Sir George Stokes is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)'
+data[1819 + 2000].color = 'green';
+
+data[1821 + 2000].info += '\n **Arthur Cayley is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Cayley)'
+data[1821 + 2000].color = 'green';
+
+data[1826 + 2000].info += '\n **Bernhard Riemann is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Bernhard_Riemann)'
+data[1826 + 2000].color = 'green';
+
+
+
+
 
 
 
