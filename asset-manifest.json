@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MathTimeline/static/css/main.1fade44a.css",
-    "main.js": "/MathTimeline/static/js/main.0ce81bac.js",
+    "main.js": "/MathTimeline/static/js/main.e81018d1.js",
     "index.html": "/MathTimeline/index.html",
     "main.1fade44a.css.map": "/MathTimeline/static/css/main.1fade44a.css.map",
-    "main.0ce81bac.js.map": "/MathTimeline/static/js/main.0ce81bac.js.map"
+    "main.e81018d1.js.map": "/MathTimeline/static/js/main.e81018d1.js.map"
   },
   "entrypoints": [
     "static/css/main.1fade44a.css",
-    "static/js/main.0ce81bac.js"
+    "static/js/main.e81018d1.js"
   ]
 }
