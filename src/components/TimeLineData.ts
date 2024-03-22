@@ -109,6 +109,10 @@ data[1619 + 2000].color = 'red';
 data[1619 + 2000].info += '\n **Kepler–Poinsot polyhedron**\n [Wikipedia](https://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron#History)'
 data[1619 + 2000].color = 'red';
 
+data[1696 + 2000].info += '\n **Analyse des Infiniment Petits pour l\'Intelligence des Lignes Courbes**\n [Wikipedia](https://en.wikipedia.org/wiki/Analyse_des_Infiniment_Petits_pour_l%27Intelligence_des_Lignes_Courbes)'
+data[1696 + 2000].color = 'red';
+
+
 
 
 
@@ -229,8 +233,26 @@ data[1637 + 2000].color = 'blue';
 data[1643 + 2000].info += '\n **Descartes\' theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Descartes%27_theorem)'
 data[1643 + 2000].color = 'blue';
 
+data[1643 + 2000].info += '\n **Fundamental Theorem of Calculus**\n [Wikipedia](https://en.wikipedia.org/wiki/History_of_calculus#Newton)'
+data[1643 + 2000].color = 'blue';
 
+data[1671 + 2000].info += '\n **Taylor\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Taylor%27s_theorem)'
+data[1671 + 2000].color = 'blue';
 
+data[1665 + 2000].info += '\n **Newton\'s Method**\n [Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_method)'
+data[1665 + 2000].color = 'blue';
+
+data[1696 + 2000].info += '\n **Brachistochrone problem solved**\n [Wikipedia](https://en.wikipedia.org/wiki/Brachistochrone_curve)'
+data[1696 + 2000].color = 'blue';
+
+data[1699 + 2000].info += '\n **Pi Calculated to 72 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Abraham_Sharp#Life)'
+data[1699 + 2000].color = 'blue';
+
+data[1706 + 2000].info += '\n **Pi Calculated to 100 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Machin)'
+data[1706 + 2000].color = 'blue';
+
+data[1712 + 2000].info += '\n **Bernoulli number\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_number)'
+data[1712 + 2000].color = 'blue';
 
 
 
@@ -392,8 +414,25 @@ data[1607 + 2000].color = 'green';
 data[1616 + 2000].info += '\n **John Wallis is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Wallis)'
 data[1616 + 2000].color = 'green';
 
+data[1643 + 2000].info += '\n **Isaac Newton is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Isaac_Newton)'
+data[1643 + 2000].color = 'green';
 
-//left off on issac newton
+data[1646 + 2000].info += '\n **Gottfried Wilhelm Leibniz is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)'
+data[1646 + 2000].color = 'green';
+
+data[1656 + 2000].info += '\n **Edmond Halley is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Edmond_Halley)'
+data[1656 + 2000].color = 'green';
+
+data[1661 + 2000].info += '\n **Guillaume de l\'Hôpital is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Guillaume_de_l%27H%C3%B4pital)'
+data[1661 + 2000].color = 'green';
+
+data[1655 + 2000].info += '\n **Jacob Bernoulli are Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Bernoulli)'
+data[1655 + 2000].color = 'green';
+
+data[1667 + 2000].info += '\n **Johann Bernoulli is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Johann_Bernoulli)'
+data[1667 + 2000].color = 'green';
+
+// on brook taylor
 
 
 //Gauss
