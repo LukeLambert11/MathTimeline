@@ -1,6 +1,6 @@
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(55, 20px); /* squares across */
+    grid-template-columns: repeat(60, 20px); /* squares across */
     gap: 5px;
     justify-content: center;
     align-content: center;

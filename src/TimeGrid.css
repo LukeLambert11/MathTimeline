@@ -30,4 +30,16 @@
     font-size: 40px;
 }
 
+body {
+    transform: scale(1);
+    transform-origin: top center;
+}
+
+/* If the screen width is above 1200px, scale the body down */
+@media (max-width: 1500px) {
+    body {
+        transform: scale(0.7);
+    }
+}
+
 
