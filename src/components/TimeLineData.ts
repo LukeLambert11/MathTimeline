@@ -175,7 +175,7 @@ data[340 + 2000].info += '\n **Pappus\'s hexagon theorem**\n [Wikipedia](https:/
 data[340 + 2000].color = 'blue';
 
 data[500 + 2000].info += '\n **Pi Calculated to 6 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Zu_Chongzhi#Mathematics)'
-data[500 + 2000].color = 'blue';
+data[500 + 2000].color = 'yellow';
 
 data[510 + 2000].info += '\n **Sine and Cosine**\n [Wikipedia](https://en.wikipedia.org/wiki/Aryabhata#Trigonometry)'
 data[510 + 2000].color = 'blue';
@@ -229,7 +229,7 @@ data[1572 + 2000].info += '\n **Complex Numbers**\n [Wikipedia](https://en.wikip
 data[1572 + 2000].color = 'blue';
 
 data[1596 + 2000].info += '\n **Pi Calculated to 20 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen#Calc)'
-data[1596 + 2000].color = 'blue';
+data[1596 + 2000].color = 'yellow';
 
 data[1614 + 2000].info += '\n **Napier Logarithms**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Napier#Logarithms)'
 data[1614 + 2000].color = 'blue';
@@ -259,10 +259,10 @@ data[1696 + 2000].info += '\n **Brachistochrone problem solved**\n [Wikipedia](h
 data[1696 + 2000].color = 'blue';
 
 data[1699 + 2000].info += '\n **Pi Calculated to 72 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Abraham_Sharp#Life)'
-data[1699 + 2000].color = 'blue';
+data[1699 + 2000].color = 'yellow';
 
 data[1706 + 2000].info += '\n **Pi Calculated to 100 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/John_Machin)'
-data[1706 + 2000].color = 'blue';
+data[1706 + 2000].color = 'yellow';
 
 data[1712 + 2000].info += '\n **Bernoulli number\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_number)'
 data[1712 + 2000].color = 'blue';
@@ -292,7 +292,7 @@ data[1747 + 2000].info += '\n **d\'Alembert\'s formula**\n [Wikipedia](https://e
 data[1747 + 2000].color = 'blue';
 
 data[1761 + 2000].info += '\n **Pi is proved to be irrational**\n [Wikipedia](https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert#Mathematics)'
-data[1761 + 2000].color = 'blue';
+data[1761 + 2000].color = 'yellow';
 
 data[1762 + 2000].info += '\n **Divergence theorem Discovered**\n [Wikipedia](https://en.wikipedia.org/wiki/Divergence_theorem#History)'
 data[1762 + 2000].color = 'blue';
@@ -301,7 +301,7 @@ data[1763 + 2000].info += '\n **Bayes\' theorem**\n [Wikipedia](https://en.wikip
 data[1763 + 2000].color = 'blue';
 
 data[1789 + 2000].info += '\n **Pi Calculated to 126 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Jurij_Vega#Mathematical_accomplishments)'
-data[1789 + 2000].color = 'blue';
+data[1789 + 2000].color = 'yellow';
 
 data[1797 + 2000].info += '\n **Prime number theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Prime_number_theorem#History_of_the_proof_of_the_asymptotic_law_of_prime_numbers)'
 data[1797 + 2000].color = 'blue';
@@ -356,7 +356,7 @@ data[1873 + 2000].color = 'blue';
 
 
 data[1882 + 2000].info += '\n **Pi is proved to be transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#The_transcendence_of_%CF%80)'
-data[1882 + 2000].color = 'blue';
+data[1882 + 2000].color = 'yellow';
 
 data[1882 + 2000].info += '\n **Klein bottle**\n [Wikipedia](https://en.wikipedia.org/wiki/Klein_bottle)'
 data[1882 + 2000].color = 'blue';
@@ -426,7 +426,7 @@ data[1965 + 2000].info += '\n **Fast Fourier transform**\n [Wikipedia](https://e
 data[1965 + 2000].color = 'blue';
 
 data[1949 + 2000].info += '\n **Pi Calculated to 2,037 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
-data[1949 + 2000].color = 'blue';
+data[1949 + 2000].color = 'yellow';
 
 data[1954 + 2000].info += '\n ** Complete List of Uniform polyhedron\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Uniform_polyhedron#History)'
 data[1954 + 2000].color = 'blue';
@@ -439,7 +439,7 @@ data[1957 + 2000].color = 'blue';
 
 
 data[1958 + 2000].info += '\n **Pi Calculated to 10,000 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
-data[1958 + 2000].color = 'blue';
+data[1958 + 2000].color = 'yellow';
 
 data[1959 + 2000].info += '\n **Iwasawa theory**\n [Wikipedia](https://en.wikipedia.org/wiki/Iwasawa_theory)'
 data[1959 + 2000].color = 'blue';
@@ -472,10 +472,10 @@ data[1992 + 2000].info += '\n **Deutsch–Jozsa algorithm**\n [Wikipedia](https:
 data[1992 + 2000].color = 'blue';
 
 data[1973 + 2000].info += '\n **Pi Calculated to 1,001,250 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
-data[1973 + 2000].color = 'blue';
+data[1973 + 2000].color = 'yellow';
 
 data[1989 + 2000].info += '\n **Pi Calculated to 1,011,196,691 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
-data[1989 + 2000].color = 'blue';
+data[1989 + 2000].color = 'yellow';
 
 data[1994 + 2000].info += '\n **Fermat\'s Last Theorem\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)'
 data[1994 + 2000].color = 'blue';
@@ -489,10 +489,29 @@ data[1998 + 2000].color = 'blue';
 data[2000 + 2000].info += '\n **Millennium Prize Problems**\n [Wikipedia](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)'
 data[2000 + 2000].color = 'blue';
 
+data[2002 + 2000].info += '\n **AKS primality test**\n [Wikipedia](https://en.wikipedia.org/wiki/AKS_primality_test)'
+data[2002 + 2000].color = 'blue';
 
+data[2002 + 2000].info += '\n **Catalan\'s conjecture**\n [Wikipedia](https://en.wikipedia.org/wiki/Catalan%27s_conjecture)'
+data[2002 + 2000].color = 'blue';
+
+data[2003 + 2000].info += '\n **Poincaré conjecture**\n [Wikipedia](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)'
+data[2003 + 2000].color = 'blue';
+
+data[2004 + 2000].info += '\n **Classification of finite simple groups**\n [Wikipedia](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)'
+data[2004 + 2000].color = 'blue';
+
+data[2004 + 2000].info += '\n **Green–Tao theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem)'
+data[2004 + 2000].color = 'blue';
 
 data[2002 + 2000].info += '\n **Pi Calculated to 1,241,100,000,000\n decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
-data[2002 + 2000].color = 'blue';
+data[2002 + 2000].color = 'yellow';
+
+data[2016 + 2000].info += '\n **Proof of Erdős discrepancy problem**\n [Wikipedia](https://en.wikipedia.org/wiki/Sign_sequence#Erd%C5%91s_discrepancy_problem)'
+data[2016 + 2000].color = 'blue';
+
+data[2024 + 2000].info += '\n **Luke Lambert takes Dr.Edmonds History of Mathematics**\n'
+data[2024 + 2000].color = 'blue';
 
 
 
@@ -683,9 +702,15 @@ data[1667 + 2000].color = 'green';
 data[1701 + 2000].info += '\n **Thomas Bayes is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Bayes)'
 data[1701 + 2000].color = 'green';
 
+data[1706 + 2000].info += '\n **Émilie du Châtelet is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet)'
+data[1706 + 2000].color = 'purple';
+
 //Euler
 data[1707 + 2000].info += '\n **Leonhard Euler is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Leonhard_Euler)'
 data[1707 + 2000].color = 'green';
+
+data[1718 + 2000].info += '\n **Maria Gaetana Agnesi is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi)'
+data[1718 + 2000].color = 'purple';
 
 data[1736 + 2000].info += '\n **Joseph-Louis Lagrange is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)'
 data[1736 + 2000].color = 'green';
@@ -695,6 +720,9 @@ data[1752 + 2000].color = 'green';
 
 data[1768 + 2000].info += '\n **Joseph Fourier is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Fourier)'
 data[1768 + 2000].color = 'green';
+
+data[1776 + 2000].info += '\n **Sophie Germain is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Germain)'
+data[1776 + 2000].color = 'purple';
 
 //Gauss
 data[1777 + 2000].info += '\n **Carl Friedrich Gauss is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)'
@@ -718,6 +746,9 @@ data[1815 + 2000].color = 'green';
 data[1819 + 2000].info += '\n **Sir George Stokes is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)'
 data[1819 + 2000].color = 'green';
 
+data[1820 + 2000].info += '\n **Florence Nightingale is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Florence_Nightingale)'
+data[1820 + 2000].color = 'purple';
+
 data[1821 + 2000].info += '\n **Arthur Cayley is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Cayley)'
 data[1821 + 2000].color = 'green';
 
@@ -726,6 +757,7 @@ data[1826 + 2000].color = 'green';
 
 data[1862 + 2000].info += '\n **David Hilbert is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/David_Hilbert)'
 data[1862 + 2000].color = 'green';
+
 
 data[1875 + 2000].info += '\n **Henri Lebesgue is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Henri_Lebesgue)'
 data[1875 + 2000].color = 'green';
@@ -737,7 +769,7 @@ data[1903 + 2000].info += '\n **Alonzo Church is Born**\n [Wikipedia](https://en
 data[1903 + 2000].color = 'green';
 
 data[1906 + 2000].info += '\n **Grace Hopper is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Grace_Hopper)'
-data[1906 + 2000].color = 'green';
+data[1906 + 2000].color = 'purple';
 
 data[1912 + 2000].info += '\n **Alan Turing is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)'
 data[1912 + 2000].color = 'green';
@@ -745,7 +777,25 @@ data[1912 + 2000].color = 'green';
 data[1934 + 2000].info += '\n **Tony Hoare is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare)'
 data[1934 + 2000].color = 'green';
 
+data[1941 + 2000].info += '\n **James Stewart is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/James_Stewart_(mathematician))'
+data[1941 + 2000].color = 'green';
+
+
+data[1945 + 2000].info += '\n **Nicole Tomczak-Jaegermann is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Nicole_Tomczak-Jaegermann)'
+data[1945 + 2000].color = 'purple';
+
 data[1953 + 2000].info += '\n **Andrew Wiles is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wiles)'
+data[1953 + 2000].color = 'green';
+
+data[1954 + 2000].info += '\n **Ingrid Daubechies\n is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Ingrid_Daubechies)'
+data[1954 + 2000].color = 'purple';
+
+
+data[1959 + 2000].info += '\n **Stephen Wolfram is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wolfram)'
+data[1959 + 2000].color = 'green';
+
+data[1975 + 2000].info += '\n **Terence Tao is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Terence_Tao)'
+data[1975 + 2000].color = 'green';
 
 
 

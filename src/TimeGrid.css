@@ -10,12 +10,24 @@
     color: white;
     text-align: center;
     font-size: 50px;
+    margin-bottom: 5px;
 }
 
-.name{
+
+
+.linkedinIconStyle{
+    font-size: 60px;
+    padding-left: 10px;
+
+}
+
+.byLineContainerStyle {
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: white;
-    text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 
