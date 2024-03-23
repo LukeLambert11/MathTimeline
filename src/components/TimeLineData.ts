@@ -121,6 +121,10 @@ data[1794 + 2000].color = 'red';
 data[1801 + 2000].info += '\n **Disquisitiones Arithmeticae**\n [Wikipedia](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)'
 data[1801 + 2000].color = 'red';
 
+data[1894 + 2000].info += '\n **Analysis Situs**\n [Wikipedia](https://en.wikipedia.org/wiki/Analysis_Situs_(paper))'
+data[1894 + 2000].color = 'red';
+
+
 
 
 
@@ -347,17 +351,150 @@ data[1858 + 2000].color = 'blue';
 data[1872 + 2000].info += '\n **Dedekind cut**\n [Wikipedia](https://en.wikipedia.org/wiki/Dedekind_cut)'
 data[1872 + 2000].color = 'blue';
 
-data[1873 + 2000].info += '\n **e is transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#A_proof_that_e_is_transcendental)'
+data[1873 + 2000].info += '\n **e is proved to be transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#A_proof_that_e_is_transcendental)'
 data[1873 + 2000].color = 'blue';
+
+
+data[1882 + 2000].info += '\n **Pi is proved to be transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#The_transcendence_of_%CF%80)'
+data[1882 + 2000].color = 'blue';
+
+data[1882 + 2000].info += '\n **Klein bottle**\n [Wikipedia](https://en.wikipedia.org/wiki/Klein_bottle)'
+data[1882 + 2000].color = 'blue';
+
+
+data[1889 + 2000].info += '\n **Minkowski\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Minkowski%27s_theorem)'
+data[1889 + 2000].color = 'blue';
 
 data[1891 + 2000].info += '\n **Cantor\'s diagonal argument**\n [Wikipedia](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)'
 data[1891 + 2000].color = 'blue';
 
-data[1882 + 2000].info += '\n **pi is transcendental**\n [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number#The_transcendence_of_%CF%80)'
-data[1882 + 2000].color = 'blue';
+data[1896 + 2000].info += '\n **Prime number theorem Proved**\n [Wikipedia](https://en.wikipedia.org/wiki/Prime_number_theorem#History_of_the_proof_of_the_asymptotic_law_of_prime_numbers)'
+data[1896 + 2000].color = 'blue';
+
+data[1899 + 2000].info += '\n **Exterior derivative**\n [Wikipedia](https://en.wikipedia.org/wiki/Exterior_derivative)'
+data[1899 + 2000].color = 'blue';
+
+data[1900 + 2000].info += '\n **Continuum hypothesiss**\n [Wikipedia](https://en.wikipedia.org/wiki/Continuum_hypothesis)'
+data[1900 + 2000].color = 'blue';
+
+data[1900 + 2000].info += '\n **Hilbert\'s problems**\n [Wikipedia](https://en.wikipedia.org/wiki/Hilbert%27s_problems#Table_of_problems)'
+data[1900 + 2000].color = 'blue';
+
+data[1909 + 2000].info += '\n **Brouwer fixed-point theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem#History)'
+data[1909 + 2000].color = 'blue';
+
+data[1918 + 2000].info += '\n **Noether\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)'
+data[1918 + 2000].color = 'blue';
+
+data[1916 + 2000].info += '\n **Ramanujan–Petersson conjecture**\n [Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)'
+data[1916 + 2000].color = 'blue';
+
+data[1919 + 2000].info += '\n **Brun\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Brun%27s_theorem)'
+data[1919 + 2000].color = 'blue';
+
+data[1925 + 2000].info += '\n **Hilbert\'s paradox of the Grand Hotel**\n [Wikipedia](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)'
+data[1925 + 2000].color = 'blue';
+
+data[1928 + 2000].info += '\n **Minimax theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Minimax_theorem)'
+data[1928 + 2000].color = 'blue';
+
+data[1930 + 2000].info += '\n **Kuratowski\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Kuratowski%27s_theorem)'
+data[1930 + 2000].color = 'blue';
+
+data[1931 + 2000].info += '\n **Gödel\'s incompleteness theorems**\n [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)'
+data[1931 + 2000].color = 'blue';
+
+data[1936 + 2000].info += '\n **Lambda calculus**\n [Wikipedia](https://en.wikipedia.org/wiki/Lambda_calculus#History)'
+data[1936 + 2000].color = 'blue';
+
+data[1936 + 2000].info += '\n **Church–Turing thesis\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)'
+data[1936 + 2000].color = 'blue';
+
+data[1938 + 2000].info += '\n **LU decomposition\n**\n [Wikipedia](https://en.wikipedia.org/wiki/LU_decomposition)'
+data[1938 + 2000].color = 'blue';
+
+data[1945 + 2000].info += '\n **Realizability**\n [Wikipedia](https://en.wikipedia.org/wiki/Realizability)'
+data[1945 + 2000].color = 'blue';
+
+data[1946 + 2000].info += '\n **Spectral sequence**\n [Wikipedia](https://en.wikipedia.org/wiki/Spectral_sequence)'
+data[1946 + 2000].color = 'blue';
+
+data[1947 + 2000].info += '\n **Simplex algorithm for Linear Programming**\n [Wikipedia](https://en.wikipedia.org/wiki/Simplex_algorithm)'
+data[1947 + 2000].color = 'blue';
+
+data[1965 + 2000].info += '\n **Fast Fourier transform**\n [Wikipedia](https://en.wikipedia.org/wiki/Fast_Fourier_transform)'
+data[1965 + 2000].color = 'blue';
+
+data[1949 + 2000].info += '\n **Pi Calculated to 2,037 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
+data[1949 + 2000].color = 'blue';
+
+data[1954 + 2000].info += '\n ** Complete List of Uniform polyhedron\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Uniform_polyhedron#History)'
+data[1954 + 2000].color = 'blue';
+
+data[1957 + 2000].info += '\n **Itô calculus**\n [Wikipedia](https://en.wikipedia.org/wiki/It%C3%B4_calculus)'
+data[1957 + 2000].color = 'blue';
+
+data[1957 + 2000].info += '\n **Grothendieck–Riemann–Roch theorem\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Grothendieck%E2%80%93Riemann%E2%80%93Roch_theorem)'
+data[1957 + 2000].color = 'blue';
 
 
-//klien bottle
+data[1958 + 2000].info += '\n **Pi Calculated to 10,000 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
+data[1958 + 2000].color = 'blue';
+
+data[1959 + 2000].info += '\n **Iwasawa theory**\n [Wikipedia](https://en.wikipedia.org/wiki/Iwasawa_theory)'
+data[1959 + 2000].color = 'blue';
+
+data[1961 + 2000].info += '\n **Quicksort Algorithm Invented**\n [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)'
+data[1961 + 2000].color = 'blue';
+
+data[1961 + 2000].info += '\n **QR Algorithm**\n [Wikipedia](https://en.wikipedia.org/wiki/QR_algorithm)'
+data[1961 + 2000].color = 'blue';
+
+data[1965 + 2000].info += '\n **Fuzzy Mathematics**\n [Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_mathematics)'
+data[1965 + 2000].color = 'blue';
+
+data[1967 + 2000].info += '\n **Langlands Program**\n [Wikipedia](https://en.wikipedia.org/wiki/Langlands_program)'
+data[1967 + 2000].color = 'blue';
+
+data[1976 + 2000].info += '\n **Computer Proof of the 4 Color Theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Four_color_theorem)'
+data[1976 + 2000].color = 'blue';
+
+data[1983 + 2000].info += '\n **Faltings\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Faltings%27s_theorem)'
+data[1983 + 2000].color = 'blue';
+
+data[1984 + 2000].info += '\n **Jones polynomial**\n [Wikipedia](https://en.wikipedia.org/wiki/Jones_polynomial)'
+data[1984 + 2000].color = 'blue';
+
+data[1986 + 2000].info += '\n **Ribet\'s theorem**\n [Wikipedia](https://en.wikipedia.org/wiki/Ribet%27s_theorem)'
+data[1986 + 2000].color = 'blue';
+
+data[1992 + 2000].info += '\n **Deutsch–Jozsa algorithm**\n [Wikipedia](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)'
+data[1992 + 2000].color = 'blue';
+
+data[1973 + 2000].info += '\n **Pi Calculated to 1,001,250 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
+data[1973 + 2000].color = 'blue';
+
+data[1989 + 2000].info += '\n **Pi Calculated to 1,011,196,691 decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
+data[1989 + 2000].color = 'blue';
+
+data[1994 + 2000].info += '\n **Fermat\'s Last Theorem\n**\n [Wikipedia](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)'
+data[1994 + 2000].color = 'blue';
+
+data[1995 + 2000].info += '\n **Bailey–Borwein–Plouffe formula**\n [Wikipedia](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula)'
+data[1995 + 2000].color = 'blue';
+
+data[1998 + 2000].info += '\n **Kepler conjecture**\n [Wikipedia](https://en.wikipedia.org/wiki/Kepler_conjecture)'
+data[1998 + 2000].color = 'blue';
+
+data[2000 + 2000].info += '\n **Millennium Prize Problems**\n [Wikipedia](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)'
+data[2000 + 2000].color = 'blue';
+
+
+
+data[2002 + 2000].info += '\n **Pi Calculated to 1,241,100,000,000\n decimal places**\n [Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80#1949%E2%80%932009)'
+data[2002 + 2000].color = 'blue';
+
+
 
 
 
@@ -586,6 +723,29 @@ data[1821 + 2000].color = 'green';
 
 data[1826 + 2000].info += '\n **Bernhard Riemann is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Bernhard_Riemann)'
 data[1826 + 2000].color = 'green';
+
+data[1862 + 2000].info += '\n **David Hilbert is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/David_Hilbert)'
+data[1862 + 2000].color = 'green';
+
+data[1875 + 2000].info += '\n **Henri Lebesgue is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Henri_Lebesgue)'
+data[1875 + 2000].color = 'green';
+
+data[1882 + 2000].info += '\n **Emmy Noether is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Emmy_Noether)'
+data[1882 + 2000].color = 'green';
+
+data[1903 + 2000].info += '\n **Alonzo Church is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Alonzo_Church)'
+data[1903 + 2000].color = 'green';
+
+data[1906 + 2000].info += '\n **Grace Hopper is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Grace_Hopper)'
+data[1906 + 2000].color = 'green';
+
+data[1912 + 2000].info += '\n **Alan Turing is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)'
+data[1912 + 2000].color = 'green';
+
+data[1934 + 2000].info += '\n **Tony Hoare is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare)'
+data[1934 + 2000].color = 'green';
+
+data[1953 + 2000].info += '\n **Andrew Wiles is Born**\n [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Wiles)'
 
 
 
